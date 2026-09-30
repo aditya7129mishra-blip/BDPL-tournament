@@ -1,0 +1,4 @@
+bdpl.db
+__pycache__/
+*.py[cod]
+.venv/
